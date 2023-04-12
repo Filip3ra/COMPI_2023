@@ -1,0 +1,12 @@
+compilar:
+g++ *.cpp src-gram5/*.cpp -o ../bin/lab3
+
+editar codigo:
+vi src-gram5/Analisador.cpp
+
+executar passando entrada:
+../bin/lab3.exe < ins/1.in
+
+
+
+
